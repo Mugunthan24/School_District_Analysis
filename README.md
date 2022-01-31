@@ -81,4 +81,6 @@ School Size - Original
 School Size - Revised
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School%20Size%20Revised.PNG)
 
+- There are no notable changes
+
 ### Scores by School Type
