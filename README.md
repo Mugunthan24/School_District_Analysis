@@ -95,4 +95,4 @@ School Type - Revised
 - There are no significant changes
 
 ## Summary
-After not incorporating the grades for ninth graders at Thomas High School and comparing the tables there are no significant differences between both datasets. 
+After not incorporating the grades for ninth graders at Thomas High School and comparing the tables, the tables where we found slight differences were the District Summary, where the Total Students was less. The School Summary also had slight changes in the columns associated with grades. Additionally, the math scores and reading scores table differred between the orginal and revised because now the 9th grade column was giving a value of NaN for Thomas High School.
