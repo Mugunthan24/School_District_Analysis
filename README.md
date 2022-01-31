@@ -85,7 +85,14 @@ School Size - Revised
 
 ### Scores by School Type
 School Type - Original
+
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School%20Type%20Original.PNG)
 
 School Type - Revised
+
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School%20Type%20Revised.PNG)
+
+- There are no significant changes
+
+## Summary
+After not incorporating the grades for ninth graders at Thomas High School and comparing the tables there are no significant differences between both datasets. 
