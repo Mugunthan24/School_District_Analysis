@@ -26,12 +26,14 @@ School Summary - Revised
 
 - The only differences between the 2 tables can be found when looking at the row for Thomas High School. Specifically the differences can be found in the columns below:
     - Average Math Score
-        - Has increased slightly from 83.35 to 83.42
+        - Has decreased slightly from 83.42 to 83.35
     - Average Reading Score
-        - Has decreased slightly from 83.9 to 83.85
+        - Has increased slightly from 83.85 to 83.9
     - % Passing Math
-        - Has increased slightly from 93.19% to 93.27%
+        - Has decreased slightly from 93.27% to 93.19%
     - % Passing Reading
-        - Has decreased slightly from 97.02% to 97.31%
+        - Has decreased slightly from 97.31% to 97.02%
     - % Overeall Passing
-        - Has increased slightly from 90.63% to 90.95%
+        - Has decreased slightly from 90.95% to 90.63%
+
+### Thomas High School’s performance Relative to other Schools
