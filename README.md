@@ -23,3 +23,15 @@ School Summary - Orginal
 
 School Summary - Revised
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School_Summary_Revised.PNG)
+
+- The only differences between the 2 tables can be found when looking at the row for Thomas High School. Specifically the differences can be found in the columns below:
+    - Average Math Score
+        - Has increased slightly from 83.35 to 83.42
+    - Average Reading Score
+        - Has decreased slightly from 83.9 to 83.85
+    - % Passing Math
+        - Has increased slightly from 93.19% to 93.27%
+    - % Passing Reading
+        - Has decreased slightly from 97.02% to 97.31%
+    - % Overeall Passing
+        - Has increased slightly from 90.63% to 90.95%
