@@ -13,3 +13,8 @@ District Summary - Original
 
 District Summary - Revised 
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/District_Summary_Revised.PNG)
+
+- The only noteable change is the Total Students which has decreased after removing our hundred and sixty one rows of data for ninth grade students attending Thomas High School
+
+
+### School Summary
