@@ -47,22 +47,22 @@ Top Schools - Revised
 
 ### Math Scores by Grade
 Math Scores - Original
+
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Math_Scores_Original.PNG)
 
 Math Scores - Revised
+
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Math_Scores_Revised.PNG)
 
 Reading Scores - Original
+
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Reading_Scores_Original.PNG)
 
 Reading Scores - Revised
+
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Reading_Scores_Revised.PNG)
 
 - The information between both tables is exactly the same, but since we have gotten rid of the grade information for ninth graders at Thomas High School, the 9th grade information for Thomas High School will be blank for Math and Reading Scores per Grade.
-
-### Reading Scores by Grade
-
-
 
 ### Scores by School spending
 
