@@ -18,3 +18,8 @@ District Summary - Revised
 
 
 ### School Summary
+School Summary - Orginal
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School_Summary_Original.PNG)
+
+School Summary - Revised
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School_Summary_Revised.PNG)
