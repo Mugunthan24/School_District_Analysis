@@ -37,3 +37,8 @@ School Summary - Revised
         - Has decreased slightly from 90.95% to 90.63%
 
 ### Thomas High School’s performance Relative to other Schools
+Top Schools - Original
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Top_Schools_Original.PNG)
+
+Top Schools - Revised
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Top_Schools_Revised.PNG)
