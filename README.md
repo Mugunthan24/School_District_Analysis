@@ -42,3 +42,22 @@ Top Schools - Original
 
 Top Schools - Revised
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Top_Schools_Revised.PNG)
+
+- Thomas High School still ranks second place in terms of its % Overall Passing despite % Passing Math, % Passing Reading, % Overall Passing falling from 90.95% to 90.63%
+
+### Math Scores by Grade
+Math Scores
+
+
+### Reading Scores by Grade
+
+
+
+### Scores by School spending
+
+
+
+### Scores by School size
+
+
+### Scores by School Type
