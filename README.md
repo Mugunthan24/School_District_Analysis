@@ -66,8 +66,13 @@ Reading Scores - Revised
 
 ### Scores by School spending
 
+Spending Ranges per Student - Original
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20per%20Student_Original.PNG)
 
+Spending Ranges per Student - Revised
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20per%20Student_Revised.PNG)
 
+- 
 ### Scores by School size
 
 
