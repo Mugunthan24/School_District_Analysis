@@ -72,8 +72,13 @@ Spending Ranges per Student - Original
 Spending Ranges per Student - Revised
 ![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20per%20Student_Revised.PNG)
 
-- 
-### Scores by School size
+- There are no notable changes
 
+### Scores by School size
+School Size - Original
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School%20Size%20Original.PNG)
+
+School Size - Revised
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/School%20Size%20Revised.PNG)
 
 ### Scores by School Type
