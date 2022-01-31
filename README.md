@@ -8,3 +8,5 @@ Maria, the Chief Data Scientist for a school district needs assistance analyzing
 The subsequent paragraphs will compare and contrast the initial results of the analyis against the new results which accounting for the academic dishonesty associated with ninth graders math and reading grades at Thomas High School.
 
 ### District Summary
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/District_Summary_Original.PNG)
+![image_name](https://github.com/Mugunthan24/School_District_Analysis/blob/main/Resources/District_Summary_Revised.PNG)
