@@ -26,6 +26,12 @@ share/python-wheels/
 .installed.cfg
 # .DS_Store
 .DS_Store
+function.ipynb
+PyCitySchools.ipynb
+PyCitySchools_Challenge_testing
+practice
+
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
